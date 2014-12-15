@@ -22,6 +22,9 @@ class ViewController: UIViewController {
         f = tempTrans(c)
         lblResult?.text="攝氏\(c) = 華氏\(f)"
         
+        
+        
+        
 }
 
     override func didReceiveMemoryWarning() {
